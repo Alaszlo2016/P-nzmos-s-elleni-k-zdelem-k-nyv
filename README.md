@@ -1,10 +1,9 @@
-<!DOCTYPE html>
+<Dr. Barátki László Attila PhD>
 <html lang="hu">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> A pénzmosás kriminológiai kérdései és szabályozása Magyarországon
-Különös tekintettel a Financial Action Task Force ajánlások és az AMLA megalakulásának értékelésében – könyv</title>
+    <title> A pénzmosás kriminológiai kérdései és szabályozása Magyarországon Különös tekintettel a Financial Action Task Force ajánlások és az AMLA megalakulásának értékelésében – könyv</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -52,31 +51,29 @@ Különös tekintettel a Financial Action Task Force ajánlások és az AMLA meg
 <body>
 
 <header>
-    <h1>A pénzmosás kriminológiai kérdései és szabályozása Magyarországon</h1>
-    <p><strong>Különös tekintettel a Financial Action Task Force ajánlásokra és az AMLA szerepére</strong></p>
+    <h1> </h1>
+    <p><strong> A pénzmosás kriminológiai kérdései és szabályozása Magyarországon Különös tekintettel a Financial Action Task Force ajánlásokra és az AMLA szerepére</strong></p>
 </header>
 
 <section>
     <h2>📘 Bemutatás</h2>
     <p>
-        Ez a könyv tudományos alapossággal vizsgálja a pénzmosás elleni hazai és nemzetközi szabályozást, 
-        különös tekintettel a FATF ajánlások implementációjára és az Európai Unió új AML hatóságára, az AMLA-ra. 
-        A kötet elemzi a magyar jogrendszer és a kriminológiai megközelítések összefüggéseit, gyakorlati példákon keresztül. Ez a könyv szakembereknek és a szakma iránt komolyan érdeklődőknek készült, akik mélyebb betekintést keresnek a pénzmosás elleni szabályozásba, a jogi és kriminológiai szemszögből értékelve a pénzmosást.
+        Ez a könyv tudományos alapossággal vizsgálja a pénzmosás elleni hazai és nemzetközi szabályozást, különös tekintettel az FATF ajánlások implementációjára és az Európai Unió új AML hatóságára, az AMLA-ra. A kötet elemzi a magyar jogrendszer és a kriminológiai megközelítések összefüggéseit, gyakorlati példákat bemutatva. Ez a könyv szakembereknek és a szakma iránt komolyan érdeklődőknek készült, akik mélyebb betekintést keresnek a pénzmosás elleni küzdelem szabályozásába, a jogi és kriminológiai szemszögből értékelve a pénzmosást. A dolgozat kiemelt figyelmet fordít az Európai uniós törekvések keretében megalakult szupranacionális hatóság (AMLA) bemutatására, valamint a legújabb Európai uniós pénzmosás elleni normatíva (AMLR) elfogadásának elemzésére, amelyek szintén igazolják a témaválasztás aktualitását. Számos tudományos mű készült a pénzmosásról, azonban jelen kiadvány tartalmát áttekintve kijelenthető, hogy ilyen széles spektrumot átfogó egységes tudományos mű még nem készült hazánkban. Jelen kiadvány elolvasását követően kijelenthető, hogy nélkülözhetetlen és szükséges a pénzmosás elleni küzdelemmel komolyanfoglalkozó szakemberek, jogtudósok és a nemzetközi kapcsolatok területén ténykedő szakértők számára.
     </p>
 
     <h2>🎯 Kinek szól?</h2>
     <ul>
         <li>Jogászoknak, joghallgatóknak</li>
         <li>AML/CFT szakértőknek</li>
-        <li>Pénzügyi és banki compliance munkatársaknak</li>
-        <li>Kriminológusoknak, rendészeti szakembereknek</li>
+        <li>Pénzügyi és banki compliance vezetőknek</li>
+        <li>Kriminológiai és rendészeti szakembereknek</li>
         <li>Oktatóknak, kutatóknak</li>
     </ul>
 
     <h2>📖 Miért érdemes elolvasni?</h2>
     <ul>
         <li>Napról napra aktuálisabb téma</li>
-        <li>Gyakorlat és elmélet ötvözése</li>
+        <li>Gyakorlat és elméleti kutatás ötvözése</li>
         <li>Kiemelten kezeli az európai AMLA szerepét</li>
         <li>Hasznos szakirodalom képzésekhez és kutatáshoz</li>
     </ul>
@@ -84,7 +81,8 @@ Különös tekintettel a Financial Action Task Force ajánlások és az AMLA meg
     <div class="cta">
         <h2>🛒 Vásárlás</h2>
         <p>A könyv elérhető nyomtatott és digitális formában is.</p>
-        <a href="PhD Barátki László Attila | LinkedIn -->
+        <a href=" https://www.linkedin.com/in/phd-bar%C3%A1tki-l%C3%A1szl%C3%B3-attila-0370921a1/
+        -->
     </div>
 </section>
 
